@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Aditya Dinesh Oke",
+    "occupation": "Aspiring Machine Learning Engineer",
+    "description": "",
+    "image": "",
+    "bio": "My name is Aditya, I'm a Machine Learning Engineer.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "okeaditya315@gmail.com",
+    "phone": "+91 7619419441",
+    "address": {
+      "street": "",
+      "city": "Pune",
+      "state": "India",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aditya-oke-99b74717a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/oke-aditya",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Vellore Institute of Technology",
+        "degree": "Bachelor of Technology Computer Science and Engineering",
+        "graduated": "January 2018 - Ongoing",
+        "description": "Current CGPA 9.30"
+      },
+      {
+        "school": "New Horizon Pre University",
+        "degree": "Grade 12th",
+        "graduated": "2018",
+        "description": "Overall Aggregate of 94% with a 100/100 in Mathematics"
+      },
+      {
+        "school": "JSS Public School",
+        "degree": "Grade 10th",
+        "graduated": "2016",
+        "description": "Secured Perfect CGPA of 10.0"
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "100%"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "95%"
+      },
+      {
+        "name": "Tensorflow",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "55%"
+      },
+      {
+        "name": "Docker",
+        "level": "80%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Car Driver Monitoring System",
+        "category": "Built with Tensorflow lite and deployed on Raspberry Pi",
+        "image": "",
+        "url": "https://github.com/oke-aditya/Deep_Drive"
+      },
+      {
+        "title": "Simple Digit Recognition Webapp",
+        "category": "Used ONNX for model deployment",
+        "image": "",
+        "url": "https://digit-detect.herokuapp.com"
+      },
+      {
+        "title": "PyTorch Faster RCNN Object Detector",
+        "category": "Trained for safety of construction workers as helmet and mask detector",
+        "image": "",
+        "url": "https://github.com/oke-aditya/pytorch_fasterrcnn"
+      },
+      {
+        "title": "Neural Encryption Networks",
+        "category": "Used Multiple Autoencoders Parallely to give faster encryption",
+        "image": "",
+        "url": "https://github.com/oke-aditya/Neurex"
+      },
+      {
+        "title": "Mantisshrimp Object Detection Framework",
+        "category": "Built on top of PyTorch, PyTorch Lightning and Fastai",
+        "image": "",
+        "url": "https://github.com/airctic/mantisshrimp"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "You can add some testimonials here",
+        "user": "User 1"
+      },
+      {
+        "text": "You can add some testimonials here",
+        "user": "User 2"
+      }
+    ]
+  }
+}
